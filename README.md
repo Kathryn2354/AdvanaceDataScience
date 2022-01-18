@@ -1,5 +1,4 @@
-Types in Excel 
-Kathryn Li
+Types in Excel Kathryn Li
 
 
 
