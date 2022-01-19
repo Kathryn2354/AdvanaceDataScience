@@ -6,7 +6,7 @@ I am creating a tutorial for the data types in Excel. Excel have many different 
 
 This applies to windows only not mac:
 You need press the windows key on your computer and double click on the excel application.
-![image](https://user-images.githubusercontent.com/96843197/150204172-2275373d-3b9d-4a0e-a245-3a4107194319.png)
+![image|250x250](https://user-images.githubusercontent.com/96843197/150204172-2275373d-3b9d-4a0e-a245-3a4107194319.png)
 
 
 
