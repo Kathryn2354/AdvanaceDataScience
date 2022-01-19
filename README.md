@@ -6,7 +6,7 @@ I am creating a tutorial for the data types in Excel. Excel have many different 
 
 This applies to windows only not mac:
 You need press the windows key on your computer and double click on the excel application.
-(opening.png) 
+![](opening.png) 
 
 
 
