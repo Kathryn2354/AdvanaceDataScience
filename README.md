@@ -1,6 +1,11 @@
-# Types in Excel Kathryn Li
+# How to use the  any data types in Excel website - Kathryn Li
 
-I am creating a tutorial for the data types in Excel. I well be giving a step by step instuction of how to use the particular data types.
+I am creating a tutorial for the data types in Excel. Excel have many different data type you can choose, but when first create a new excel file all the cells in the worksheet are of a general type. This means that when you enter a new value, Excel tries to guess whether you wanted to enter text, a numerical value, a date, etc. If the use start to know the different types of data that is used in Excel as well as how to use them is important in creating a useful and effective spreadsheet.
+
+## Step 1 opening excel first
+
+You need to go to home anf find microsoft excel to opeen it.
+
 
 
 
