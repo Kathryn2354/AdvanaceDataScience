@@ -16,7 +16,7 @@ You need press the windows key on your computer and double click on the excel ap
 
 You find data online or you could imput your own data. 
 
-[test.xlsx](https://github.com/Kathryn2354/AdvanaceDataScience/files/7908148/test.xlsx)
+ [download this data](https://github.com/Kathryn2354/AdvanaceDataScience/files/7908148/test.xlsx)
 
 
 ## step 3 create your own data type
