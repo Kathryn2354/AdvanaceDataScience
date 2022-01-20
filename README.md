@@ -16,7 +16,7 @@ You need press the windows key on your computer and double click on the excel ap
 
 You find data online or you could imput your own data. 
 
-<a href= "C:\Users\kitty\Desktop\organization folder\school work\Advenced data scien\test.csv" download="test.csv">download this</a>
+<a href= "C:\Users\kitty\Desktop\organization folder\school work\Advenced data science\test.csv" download="test.csv">download this</a>
 
 ## step 3 create your own data type
 
