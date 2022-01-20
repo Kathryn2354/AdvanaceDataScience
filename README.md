@@ -16,7 +16,8 @@ You need press the windows key on your computer and double click on the excel ap
 
 You find data online or you could imput your own data. 
 
-<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://stmaryscollegeofmd-my.sharepoint.com/personal/kmli_smcm_edu/_layouts/15/Doc.aspx?sourcedoc={27163594-d8fd-4886-9373-f79776f97813}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+[test.xlsx](https://github.com/Kathryn2354/AdvanaceDataScience/files/7908148/test.xlsx)
+
 
 ## step 3 create your own data type
 
