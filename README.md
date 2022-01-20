@@ -12,11 +12,7 @@ You need press the windows key on your computer and double click on the excel ap
 
 <img src="https://user-images.githubusercontent.com/96843197/150249983-a4b1f7e8-5542-46b3-8ab8-acf57273749b.png">
 
-
-
-
-
-
+## Step 2 import data first
 
 
 
