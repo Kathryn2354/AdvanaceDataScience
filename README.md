@@ -14,6 +14,8 @@ You need press the windows key on your computer and double click on the excel ap
 
 ## Step 2 import data first
 
+You find data online or you could imput your own data. 
+
 
 
 
