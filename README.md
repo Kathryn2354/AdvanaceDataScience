@@ -32,9 +32,18 @@ You need press the windows key on your computer and double click on the excel ap
  <li>click on from file then click on from json</li>
  <li>select a json file form your computer</li>
  <li>this bring you quary</li>
+ <li>click on the to table in quary</li>
+ <li>click on the expand button in quary</li>
+ <li>uncheck prefix and press ok</li>
+ <li>click close and load</li>
 </ol>
 
  [download this data](https://github.com/Kathryn2354/AdvanaceDataScience/files/7908148/test.xlsx)
  
 ## step 3 play around with the data types
+
+If you have a table that have date in it data you can highlight that entire colmun ans select date type for that column. 
+You can do this with money, population and many other data as well.
+
+
 
