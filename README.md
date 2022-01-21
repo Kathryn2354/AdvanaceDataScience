@@ -20,6 +20,7 @@ data set online:
 3. https://covidtracking.com/data/download
 4. click the download link that provided in the website
 5. save it to local computer folder.
+<br>
 [covid data](https://github.com/Kathryn2354/AdvanaceDataScience/files/7908586/all-states-history.csv)
 
 you could imput your own data:
