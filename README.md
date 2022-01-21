@@ -14,12 +14,13 @@ You need press the windows key on your computer and double click on the excel ap
 
 ## Step 2 import data first
 
-data set online:
+<p>data set online:
 1. search for data set online in google
 2. find a website where you can download the data
 3. https://covidtracking.com/data/download
 4. click the download link that provided in the website
-5. save it to local computer folder.
+5. save it to local computer folder.</p>
+
 <a href="https://github.com/Kathryn2354/AdvanaceDataScience/files/7908586/all-states-history.csv">covid data</a>
 
 you could imput your own data:
