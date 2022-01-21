@@ -14,18 +14,25 @@ You need press the windows key on your computer and double click on the excel ap
 
 ## Step 2 import data first
 
-<ol>data set online:
+<ol>
+ data set online:
  <li>search for data set online in google</li>
  <li>find a website where you can download the data</li>
- <li>https://covidtracking.com/data/download</li>
  <li>click the download link that provided in the website</li>
  <li>save it to local computer folder.</li>
+ <li>https://covidtracking.com/data/download</li>
 </ol>
 
 <a href="https://github.com/Kathryn2354/AdvanaceDataScience/files/7908586/all-states-history.csv">covid data</a>
 
-you could imput your own data:
-
+<ol>
+ you could imput your own data:
+ <li>you go to the data tab in excel</li>
+ <li>click on the get data</li>
+ <li>click on from file then click on from json</li>
+ <li>select a json file form your computer</li>
+ <li>this bring you quary</li>
+</ol>
 
  [download this data](https://github.com/Kathryn2354/AdvanaceDataScience/files/7908148/test.xlsx)
  
