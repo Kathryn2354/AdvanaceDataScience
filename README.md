@@ -42,7 +42,7 @@ You need press the windows key on your computer and double click on the excel ap
  
 ## step 3 play around with the data types
 
-If you have a table that have date in it data you can highlight that entire colmun ans select date type for that column. ]
+If you have a table that have date in it data you can highlight that entire colmun ans select date type for that column. 
 <br>
 You can do this with money, population and many other data as well.
 
